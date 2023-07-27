@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mikołaj</h1>
 <h3 align="center">A passionate Python/Java developer from Poland</h3>
 
-- 🌱 I’m currently learning **Python, Pandas, Java**
+- 🌱 I’m currently learning **Java, Spring Boot and Python**
 
 - 📫 How to reach me **pienkoszmikolaj@gmail.com**
 </p>
